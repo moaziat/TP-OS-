@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#Created by AZIAT Mohamed 
+#Github : moaziat
+ 
 if [ "$#" -lt 1 ]
 then 
 	echo "One argument is required at least" 
