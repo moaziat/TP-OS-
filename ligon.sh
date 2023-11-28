@@ -1,5 +1,5 @@
 #!/bin/bash
-#Created by AZIAT Mohamed 
+#Created by AZIAT Mohamed & Adama Diop 
 #Github : moaziat
  
 if [ "$#" -lt 1 ]
