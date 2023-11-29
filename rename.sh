@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-#Created by AZIAT Mohamed 
+#Created by Adama Diop & AZIAT Mohamed 
 #Github: moaziat
 
 
