@@ -1,7 +1,6 @@
 #!/bin/bash/
 #Mohamed AZIAT 
 #Github account: moaziat 
-#Email : moha.aziat@gmail.com
 
 if [ -d "nouvelles"] 
 	echo "The repository exits already" 
